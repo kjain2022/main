@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/main/static/css/main.04c35f7c.css",
+    "main.js": "/main/static/js/main.696fd8cc.js",
+    "static/media/video.mp4": "/main/static/media/video.2477dbf47d230907b3e2.mp4",
+    "static/media/YTG4.gif": "/main/static/media/YTG4.5957a896e7223776c109.gif",
+    "static/media/YTG1.gif": "/main/static/media/YTG1.24fc9652af3ec4a57bdb.gif",
+    "static/media/YTG2.gif": "/main/static/media/YTG2.f1b738373f45088354f3.gif",
+    "static/media/YTG3.gif": "/main/static/media/YTG3.f4e3088edc867efeb970.gif",
+    "static/media/Tweet3.png": "/main/static/media/Tweet3.c4b343a4c3ef6596f60c.png",
+    "static/media/TweetN2.png": "/main/static/media/TweetN2.5d21cb1c90618bbc2cf0.png",
+    "static/media/Tweet1.png": "/main/static/media/Tweet1.f1171c56f11ffab6a9cf.png",
+    "static/media/foodwaste.gif": "/main/static/media/foodwaste.5309920d3d17a3e322e9.gif",
+    "static/media/pack.gif": "/main/static/media/pack.bcb6e7356b628f7fb65e.gif",
+    "static/media/TweetN.png": "/main/static/media/TweetN.0b1a32705a5b9301a7b0.png",
+    "static/media/click.gif": "/main/static/media/click.4511bfcc2a2ce8ff126e.gif",
+    "static/media/happy.png": "/main/static/media/happy.97035a1119f7faa76e85.png",
+    "static/media/contact 1.png": "/main/static/media/contact 1.d037a7db673faa2bbe69.png",
+    "static/media/form.gif": "/main/static/media/form.06eb6616330cbe331f4a.gif",
+    "index.html": "/main/index.html",
+    "main.04c35f7c.css.map": "/main/static/css/main.04c35f7c.css.map",
+    "main.696fd8cc.js.map": "/main/static/js/main.696fd8cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04c35f7c.css",
+    "static/js/main.696fd8cc.js"
+  ]
+}
