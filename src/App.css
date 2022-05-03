@@ -1,0 +1,170 @@
+*{
+  box-sizing:border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Encode Sans Expanded',
+  sans-serif;
+}
+
+/* Contact.js */
+
+
+.form {
+  height: 190vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #000;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  
+}
+
+.form > h1 {
+  margin-bottom: 30px;
+  text-align: center;
+  color: #fff;
+
+}
+
+.form > input,
+textarea {
+  padding: 20px;
+  border-radius: 3px;
+  /* box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.137); */
+  margin-bottom: 20px;
+  border: 1px solid lightgray;
+  /* border: none; */
+  background: #fff;
+  font-size: 16px;
+  margin-left: 30px;
+  margin-right: 30px;
+  color: rgb(0, 0, 32);
+  outline: none;
+}
+
+.form > input:focus,
+textarea:focus {
+  border: 1px solid rgb(0, 0, 196);
+}
+
+.form > textarea {
+  height: 150px;
+  max-width: 400px;
+  min-height: 100px;
+}
+
+.form > label {
+  padding-bottom: 10px;
+  color: #fff;
+  font-weight: bold;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.form > button {
+  padding: 20px;
+  border: none;
+  background-color: rgba(244, 208, 63);
+  font-weight: 500;
+  font-size: 20px;
+  border-radius: 10px;
+  color: #fff;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  
+}
+
+.form > button:hover {
+  background-color: rgba(245,176,65,1);
+}
+
+/*Donation.js */
+
+
+.form2 {
+  height: 160vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #000;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  
+
+
+}
+
+.form2 > h1 {
+  margin-bottom: 30px;
+  text-align: center;
+  color: #fff;
+
+}
+
+.form2 > input,
+textarea {
+  padding: 20px;
+  border-radius: 3px;
+  /* box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.137); */
+  margin-bottom: 20px;
+  border: 1px solid lightgray;
+  /* border: none; */
+  background: #fff;
+  font-size: 16px;
+  margin-left: 30px;
+  margin-right: 30px;
+  color: rgb(0, 0, 32);
+  outline: none;
+}
+
+.form2 > input:focus,
+textarea:focus {
+  border: 1px solid rgb(0, 0, 196);
+}
+
+.form2 > textarea {
+  height: 150px;
+  max-width: 400px;
+  min-height: 100px;
+}
+
+.form2 > label {
+  padding-bottom: 10px;
+  color: #fff;
+  font-weight: bold;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.form2 > button {
+  padding: 20px;
+  border: none;
+  background-color: rgba(244, 208, 63);
+  font-weight: 500;
+  font-size: 20px;
+  border-radius: 10px;
+  color: #fff;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  
+}
+
+.form2 > button:hover {
+  background-color: rgba(245,176,65,1);
+}
+
+
+
